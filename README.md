@@ -1,5 +1,5 @@
 # 💫 About Me:
-Problem solving
+  Hi i am Soykot Ahamed a passionate programmer from Bangladesh
 
 
 ## 🌐 Socials:
